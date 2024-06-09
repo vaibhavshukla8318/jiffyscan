@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jiffyscan/static/css/main.7d812b61.css",
+    "main.js": "/jiffyscan/static/js/main.53175c3f.js",
+    "static/media/img4.jpg": "/jiffyscan/static/media/img4.e47e740fcc2264322ff2.jpg",
+    "static/media/img2.jpg": "/jiffyscan/static/media/img2.e93fd1c350e3d023220e.jpg",
+    "index.html": "/jiffyscan/index.html",
+    "main.7d812b61.css.map": "/jiffyscan/static/css/main.7d812b61.css.map",
+    "main.53175c3f.js.map": "/jiffyscan/static/js/main.53175c3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d812b61.css",
+    "static/js/main.53175c3f.js"
+  ]
+}
