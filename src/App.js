@@ -5,7 +5,7 @@ import './App.css'
 
 const App = () => {
   return (
-   <BrowserRouter basename='/jiffyscan'>
+   <BrowserRouter basename='jiffyscan'>
      <Routes>
        <Route path="/" element={<Home/>} />
      </Routes>
